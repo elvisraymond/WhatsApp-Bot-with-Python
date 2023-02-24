@@ -1,4 +1,4 @@
-Hi !
+Hello guys !
 
 I am Elvis Ray, I was able to design this Bot thanks to a resource found on the internet.
 
